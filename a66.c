@@ -1,6 +1,6 @@
 //Accept two integers x and y and calculate the sum of all integers between x and y (both inclusive) 
 //20. Write a program to accept two integers x and n and compute xn .
-
+print("hello...")
 /*
 #include<stdio.h>
 int main(){
